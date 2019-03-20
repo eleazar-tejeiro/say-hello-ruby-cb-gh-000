@@ -1,5 +1,4 @@
 # Build your say_hello method here
-def say_hello (hello_there = "Bite my ass")
+def say_hello (hello_there = "Hello Ruby Programmer!")
   puts hello_there
-  return hello_there
 end
